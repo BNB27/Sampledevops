@@ -31,3 +31,4 @@ D:\aspnetframework\Sampledevops\Sampledevops\obj\Debug\net8.0\refint\Sampledevop
 D:\aspnetframework\Sampledevops\Sampledevops\obj\Debug\net8.0\Sampledevops.pdb
 D:\aspnetframework\Sampledevops\Sampledevops\obj\Debug\net8.0\Sampledevops.genruntimeconfig.cache
 D:\aspnetframework\Sampledevops\Sampledevops\obj\Debug\net8.0\ref\Sampledevops.dll
+D:\aspnetframework\Sampledevops\Sampledevops\obj\Debug\net8.0\Sampledevops.sourcelink.json

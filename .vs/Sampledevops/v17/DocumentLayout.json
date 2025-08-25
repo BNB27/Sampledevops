@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\aspnetframework\\Sampledevops\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0882B485-542B-4D98-9756-98A6D0A5E55E}|TestProjectapp\\TestProjectapp.csproj|d:\\aspnetframework\\sampledevops\\testprojectapp\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0882B485-542B-4D98-9756-98A6D0A5E55E}|TestProjectapp\\TestProjectapp.csproj|solutionrelative:testprojectapp\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F6C5A393-6DF5-411C-84A6-2696048F1FB8}|Sampledevops\\Sampledevops.csproj|d:\\aspnetframework\\sampledevops\\sampledevops\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6C5A393-6DF5-411C-84A6-2696048F1FB8}|Sampledevops\\Sampledevops.csproj|solutionrelative:sampledevops\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\aspnetframework\\Sampledevops\\TestProjectapp\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProjectapp\\UnitTest1.cs",
+              "ToolTip": "D:\\aspnetframework\\Sampledevops\\TestProjectapp\\UnitTest1.cs",
+              "RelativeToolTip": "TestProjectapp\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:16:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\aspnetframework\\Sampledevops\\Sampledevops\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "Sampledevops\\Pages\\Index.cshtml",
